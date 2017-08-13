@@ -1,0 +1,14 @@
+/*-----------------------------------------------------------------------------
+| Copyright (c) Jupyter Development Team.
+| Distributed under the terms of the Modified BSD License.
+|----------------------------------------------------------------------------*/
+
+.jp-chesslog {
+    margin: 10px;
+    overflow-y: auto;
+}
+
+.jp-chesslog td{
+    height: 1em;
+    width: 1em;
+}
