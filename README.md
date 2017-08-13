@@ -1,8 +1,8 @@
 # chesslog-renderer
 
-A JupyterLab extension for rederning [Forsyth–Edwards Notation](https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation) to table.
+A JupyterLab extension for rederning [Forsyth–Edwards Notation](https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation) to table. This repo uses [fen-chess-board](https://www.npmjs.com/package/fen-chess-board)
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.PNG)
 
 ## Prerequisites
 
